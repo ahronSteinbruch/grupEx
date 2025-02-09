@@ -1,0 +1,8 @@
+s = (input("enter note"))
+t = (input("enter note"))
+u = (input("enter note"))
+d = (input("enter note"))
+e = (input("enter note"))
+n = (input("enter note"))
+t2 = (input("enter note"))
+print (s+t+u+d,"\n",e+n,"\n",t2)

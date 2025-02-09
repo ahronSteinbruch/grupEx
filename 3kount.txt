@@ -1,0 +1,6 @@
+kount_sec = int (input ("enter sec"))
+h = kount_sec//3600
+m = kount_sec%3600
+fm = m//60
+s = m&60 
+print (kount_sec,"=",h,"= hours",",",fm,"= minutes",",",s,"= seconds",".")
